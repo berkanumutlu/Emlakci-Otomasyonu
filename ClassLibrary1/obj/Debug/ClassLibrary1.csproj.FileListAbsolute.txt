@@ -1,0 +1,14 @@
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

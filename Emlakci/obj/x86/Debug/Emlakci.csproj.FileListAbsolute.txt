@@ -1,0 +1,35 @@
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\Emlakci\bin\Debug\Emlakci.exe
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\Emlakci\bin\Debug\Emlakci.pdb
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.exe
+c:\users\dell\documents\visual studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\bin\Debug\Emlakci.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\bin\Debug\Emlakci.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.FormAna.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.KayitEkrani.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\obj\x86\Debug\Emlakci.SorguEkrani.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\bin\Debug\ClassLibrary1.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Emlakci\Emlakci\bin\Debug\ClassLibrary1.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\bin\Debug\Emlakci.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\bin\Debug\Emlakci.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\bin\Debug\ClassLibrary1.dll
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\bin\Debug\ClassLibrary1.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.Form1.resources
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.FormAna.resources
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.KayitEkrani.resources
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.Properties.Resources.resources
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.SorguEkrani.resources
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci\Emlakci\obj\x86\Debug\Emlakci.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci-Otomasyonu\Emlakci\obj\x86\Debug\Emlakci.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta2\Emlakci-Otomasyonu\Emlakci\obj\x86\Debug\Emlakci.pdb
